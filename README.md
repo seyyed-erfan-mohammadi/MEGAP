@@ -76,3 +76,8 @@ If you find our code or paper helpful in your research, we kindly ask you to cit
 ## License
 
 This project is licensed under the MIT License. You are free to modify and distribute it in accordance with the license terms. For more information, refer to the [LICENSE](LICENSE) file.
+
+<meta name="google-site-verification" content="A19AiJvv3oIayNAAfLYF_IRrQN8kfRNLOP0Gz7K7Gsc" />
+<meta name="description" content="Seyyed Erfan Mohammadi | Biomedical Engineer | MEG Researcher">
+<meta name="robots" content="index, follow">
+<meta name="keywords" content="Seyyed Erfan Mohammadi, MEG, EEG, biomedical engineering, github, ERP, neuroscience, matlab, python">
